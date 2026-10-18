@@ -1,3 +1,3 @@
 # Indice de Memória
 
-- 2026-10-18 — Criação da skill fluxo-de-entrega, configuração do hook SessionStart e estrutura de memória por projeto.
+- 2026-10-18 — Implementação completa e testada da skill fluxo-de-entrega com git pull --rebase, sessões ativas e recados.
