@@ -1,0 +1,1 @@
+﻿- ID: 4358 | Inicio: 15:00 | Tarefa: Sessao ativa inicializada
